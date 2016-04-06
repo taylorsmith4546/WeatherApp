@@ -1,0 +1,7 @@
+C:\Dev\GitHub\WeatherApp\WeatherApp\WeatherApp.Core\WeatherApp.Core\obj\Debug\WeatherApp.Core.csprojResolveAssemblyReference.cache
+C:\Dev\GitHub\WeatherApp\WeatherApp\WeatherApp.Core\WeatherApp.Core\bin\Debug\WeatherApp.Core.dll
+C:\Dev\GitHub\WeatherApp\WeatherApp\WeatherApp.Core\WeatherApp.Core\bin\Debug\WeatherApp.Core.pdb
+C:\Dev\GitHub\WeatherApp\WeatherApp\WeatherApp.Core\WeatherApp.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\GitHub\WeatherApp\WeatherApp\WeatherApp.Core\WeatherApp.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Dev\GitHub\WeatherApp\WeatherApp\WeatherApp.Core\WeatherApp.Core\obj\Debug\WeatherApp.Core.dll
+C:\Dev\GitHub\WeatherApp\WeatherApp\WeatherApp.Core\WeatherApp.Core\obj\Debug\WeatherApp.Core.pdb
